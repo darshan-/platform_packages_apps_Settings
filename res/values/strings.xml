@@ -3419,7 +3419,7 @@
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="kernel_version">Kernel version</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
-    <string name="build_number">Build number</string>
+    <string name="build_number">DarshanOS Build number</string>
     <!-- About phone screen, tapping this button will take user to a seperate UI to check Google Play system update [CHAR LIMIT=60] -->
     <string name="module_version">Google Play system update</string>
 
@@ -4365,7 +4365,7 @@
     <!-- Main settings screen, setting title for the user to go into the About phone screen -->
     <string name="about_settings" product="tablet">About tablet</string>
     <!-- Main settings screen, setting title for the user to go into the About phone screen -->
-    <string name="about_settings" product="default">About phone</string>
+    <string name="about_settings" product="default">Device Info</string>
     <!-- Main settings screen, setting title for the user to go into the About phone screen -->
     <string name="about_settings" product="device">About device</string>
     <!-- Main settings screen, setting title for the user to go into the About phone screen -->
@@ -8237,7 +8237,7 @@
     <!-- Toast shown when an app in the work profile attempts to open notification settings. The apps in the work profile cannot access notification settings. [CHAR LIMIT=NONE] -->
     <string name="notification_settings_work_profile">Notification access is not available for apps in the work profile.</string>
     <!-- Title for setting tile leading to saved autofill passwords, autofill, and account settings [CHAR LIMIT=40]-->
-    <string name="account_dashboard_title">Passwords &amp; accounts</string>
+    <string name="account_dashboard_title">Accounts &amp; passwords</string>
     <!-- Summary for setting tile leading to saved autofill passwords, autofill, and account settings [CHAR LIMIT=NONE]-->
     <string name="account_dashboard_default_summary">Saved passwords, autofill, synced accounts</string>
     <!-- Title for setting tile leading to setting UI which allows user set default app to
